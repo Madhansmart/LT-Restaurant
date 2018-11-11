@@ -20,23 +20,23 @@ self.__precacheManifest = [
     "url": "/LT-Restaurant/static/js/runtime~main.578ff132.js"
   },
   {
-    "revision": "475c6b57e35675856729",
-    "url": "/LT-Restaurant/static/js/main.475c6b57.chunk.js"
+    "revision": "78e78b025f101fb53d59",
+    "url": "/LT-Restaurant/static/js/main.78e78b02.chunk.js"
   },
   {
     "revision": "1fbdece56fd080003e45",
     "url": "/LT-Restaurant/static/js/1.1fbdece5.chunk.js"
   },
   {
-    "revision": "475c6b57e35675856729",
-    "url": "/LT-Restaurant/static/css/main.107cf0f0.chunk.css"
+    "revision": "78e78b025f101fb53d59",
+    "url": "/LT-Restaurant/static/css/main.bf2c5f6c.chunk.css"
   },
   {
     "revision": "1fbdece56fd080003e45",
     "url": "/LT-Restaurant/static/css/1.bdcb22ba.chunk.css"
   },
   {
-    "revision": "15beec43fbd202fa9cf376400d57fd74",
+    "revision": "1f40df10d5966a5ac5827703ba03b432",
     "url": "/LT-Restaurant/index.html"
   }
 ];
