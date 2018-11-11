@@ -2,10 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-import '../node_modules/@fontawesome/fontawesome-free/css/all.css';
 import classNames from 'classnames';
-
-import '../node_modules/@fontawesome/fontawesome-free/css/all.css';
 import * as serviceWorker from './serviceWorker';
 import '../node_modules/bootstrap/dist/css/bootstrap.css';
 import '../node_modules/bootstrap/dist/js/bootstrap.js';
