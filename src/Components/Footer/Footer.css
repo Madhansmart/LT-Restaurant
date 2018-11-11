@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+.Footer{
+  padding-top: 5%;
+  background-color: #333;
+  color: white;
+  font-family: Roboto Slab, sans-serif;
+}
+.leftPara{
+  text-align: justify
+}
+hr{
+  border : 1px solid white;
+  background-color: white;
+}
+.Footer .row .leftPara span{
+  color: #ff4d4d;
+}
+.Footer .row{
+  text-align-last: left;
+}
+.list p{
+  cursor: pointer;
+}

@@ -1,0 +1,72 @@
+body{
+  margin  :0;
+  padding : 0;
+}
+.img-fluid{
+  background-repeat: no-repeat;
+  width : 100vw;
+  height : 70vh!important;
+}
+.Banner{
+  position: relative;
+}
+.innerText{
+  font-family:  Roboto Slab, sans-serif;
+  position: absolute;
+  top : 10%;
+  left : 14%;
+  color: white!important;
+  font-size: 60px;
+  font-weight: 800;
+}
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+h2{
+  position: absolute;
+  font-size: 50px!important;
+  color: white!important;
+  font-family:  Roboto Slab, sans-serif;
+  font-weight: 100!important;
+}
+.firsttext{
+  top : 20%;
+  left : 14%;
+}
+.secondtext{
+  top : 28%;
+  left: 14%;
+}
+.inside .btn-custom{
+  position: absolute;
+  top : 42%;
+  left : 14%;
+  border-radius: 5%;
+  text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.6) !important;
+  color: white;
+  font-family: arial;
+  letter-spacing: 1px;
+  padding:  10px 30px;
+  background-color: inherit;
+  border : 2px solid white;
+  cursor : pointer;
+}
+.box{
+  box-shadow: 0px 1px 1px 1px rgba(0, 0, 0, 0.2) !important;
+}
+.box .btn-custom{
+  background-color: #ff4d4d;
+  color: white;
+  padding : 0% 2%;
+}
+.rate{
+  color :#009999;
+  font-size: 1.5em;
+}
+.boxHead{
+  font-family: Roboto Slab, sans-serif;
+  color: black;
+  font-weight: 800;
+  padding-top: 3%
+}
+.boxInside{
+  padding-top: 3%;
+}
