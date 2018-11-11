@@ -21,3 +21,8 @@ hr{
 .list p{
   cursor: pointer;
 }
+@media (max-width : 768px){  
+  .list p{
+     font-size: 0.6em;
+  }
+}

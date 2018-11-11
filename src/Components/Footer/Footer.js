@@ -4,14 +4,14 @@ class Footer extends Component {
   footerDiv = (head, one, two, three, four)=> {
     return(
       <div className="col-md-3 list">
-          <h4>{head}}</h4><br />
-            <p><i class="fa fa-angle-right"></i> {one}}</p>
-            <hr />
-            <p><i class="fa fa-angle-right"></i> {two}}</p>
-            <hr />
-            <p><i class="fa fa-angle-right"></i> {three}}</p>
-            <hr />
-            <p><i class="fa fa-angle-right"></i> {four}}</p>
+          <h4>{head}</h4><br />
+            <p><i class="fa fa-angle-right"></i> {one}</p>
+            <hr className="hr"/>
+            <p><i class="fa fa-angle-right"></i> {two}</p>
+            <hr className="hr"/>
+            <p><i class="fa fa-angle-right"></i> {three}</p>
+            <hr className="hr"/>
+            <p><i class="fa fa-angle-right"></i> {four}</p>
       </div>
     );
   }

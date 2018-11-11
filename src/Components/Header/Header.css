@@ -24,3 +24,8 @@
 .color{
   color : red!important;
 }
+@media (max-width : 768px){
+    .iconBar{
+      display: none!important;
+    }
+}
