@@ -1,7 +1,7 @@
 {
-  "main.css": "/LT-Restaurant/static/css/main.bf2c5f6c.chunk.css",
-  "main.js": "/LT-Restaurant/static/js/main.78e78b02.chunk.js",
-  "main.js.map": "/LT-Restaurant/static/js/main.78e78b02.chunk.js.map",
+  "main.css": "/LT-Restaurant/static/css/main.06d03303.chunk.css",
+  "main.js": "/LT-Restaurant/static/js/main.bfaef077.chunk.js",
+  "main.js.map": "/LT-Restaurant/static/js/main.bfaef077.chunk.js.map",
   "static/css/1.bdcb22ba.chunk.css": "/LT-Restaurant/static/css/1.bdcb22ba.chunk.css",
   "static/js/1.1fbdece5.chunk.js": "/LT-Restaurant/static/js/1.1fbdece5.chunk.js",
   "static/js/1.1fbdece5.chunk.js.map": "/LT-Restaurant/static/js/1.1fbdece5.chunk.js.map",
@@ -11,9 +11,9 @@
   "static/media/boxTwo.jpg": "/LT-Restaurant/static/media/boxTwo.66c87204.jpg",
   "static/media/boxThree.jpg": "/LT-Restaurant/static/media/boxThree.b730ecdf.jpg",
   "static/media/6.jpg": "/LT-Restaurant/static/media/6.066b5f4e.jpg",
-  "static/css/main.bf2c5f6c.chunk.css.map": "/LT-Restaurant/static/css/main.bf2c5f6c.chunk.css.map",
+  "static/css/main.06d03303.chunk.css.map": "/LT-Restaurant/static/css/main.06d03303.chunk.css.map",
   "static/css/1.bdcb22ba.chunk.css.map": "/LT-Restaurant/static/css/1.bdcb22ba.chunk.css.map",
   "index.html": "/LT-Restaurant/index.html",
-  "precache-manifest.eb8db86dac0299350a1a8a9850787b13.js": "/LT-Restaurant/precache-manifest.eb8db86dac0299350a1a8a9850787b13.js",
+  "precache-manifest.d9322d38434cb2ea15b80d3f785f13ab.js": "/LT-Restaurant/precache-manifest.d9322d38434cb2ea15b80d3f785f13ab.js",
   "service-worker.js": "/LT-Restaurant/service-worker.js"
 }
