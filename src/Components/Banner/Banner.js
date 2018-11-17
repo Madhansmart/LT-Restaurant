@@ -37,13 +37,13 @@ class Banner extends Component{
                   <div className="container">
                       <div className="boxInside">
                           <div className="row">
-                            <div className="col-md-4">
+                            <div className="col-md-4 boxIns">
                               {this.boxText(boxOne, "30,00","Dish 6")}
                             </div>
-                            <div className="col-md-4">
+                            <div className="col-md-4 boxIns">
                               {this.boxText(boxTwo, "37,00","Food 6")}
                             </div>
-                            <div className="col-md-4">
+                            <div className="col-md-4 boxIns">
                               {this.boxText(boxThree, "58,00","Special 6")}
                             </div>
                           </div>

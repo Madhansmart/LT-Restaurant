@@ -1,7 +1,7 @@
 {
   "name": "LT-Restaurant",
   "version": "0.1.0",
-  "homepage" : "https://madhansmart.github.io/LT-Restaurant",
+  "homepage": "https://madhansmart.github.io/LT-Restaurant",
   "private": false,
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.5.0",
@@ -21,8 +21,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
