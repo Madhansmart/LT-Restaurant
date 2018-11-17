@@ -36,7 +36,7 @@ self.__precacheManifest = [
     "url": "/LT-Restaurant/static/css/1.bdcb22ba.chunk.css"
   },
   {
-    "revision": "8003b080e3b43ac89152e5c906b1049d",
+    "revision": "fa384a14f99d793952b146492bff579f",
     "url": "/LT-Restaurant/index.html"
   }
 ];
